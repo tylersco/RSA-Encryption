@@ -1,6 +1,3 @@
-"On my honor, as a University of Colorado at Boulder student, I have neither given nor received unauthorized assistance."
-"Tyler Scott"
-"ID: 103289678"
 
 import sys
 import random
